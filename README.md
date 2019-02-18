@@ -9,6 +9,6 @@ We're [Miles Brundage](https://www.milesbrundage.com/), [Ludwig Schubert](https:
 * Lincoln in the Bardo
 
 ## Food we're eating
-![alt text](https://github.com/ludwigschubert/twotwelve.house/raw/master/images/ludwig_pizza.jpg"Too cool for all of us.")
+![Too cool for all of us.](images/ludwig_pizza.jpg)
 
 
