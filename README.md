@@ -1,7 +1,7 @@
 # twotwelve.house
 Thanks for stopping by!
 
-We're [Miles Brundage](https://www.milesbrundage.com/), [Ludwig Schubert](https://schubert.io/), and Katherine Lee(https://katelee168.github.io). 
+We're [Miles Brundage](https://www.milesbrundage.com/), [Ludwig Schubert](https://schubert.io/), and [Katherine Lee](https://katelee168.github.io). 
 
 
 ## Books we're reading
