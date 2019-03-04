@@ -1,0 +1,79 @@
+/* normalize */
+
+html {
+	-webkit-text-size-adjust: 100%;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+/* twotwelve.house styles */
+
+body {
+	font-family: -apple-system, system-ui, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+	line-height: 1.5;
+	max-width: 520px;
+	margin: auto;
+	padding: 2em 1em;
+	color: hsl(34, 50%, 6%);
+	background: hsl(35, 10%, 98%);
+	transition: transform 1s;
+}
+
+header {
+	margin-bottom: 2em;
+}
+
+main {
+
+}
+
+footer {
+	margin-top: 2em;
+}
+
+a {
+	color: hsl(206, 50%, 13%);
+	text-decoration: solid underline hsl(35, 10%, 57%);
+}
+
+a:visited {
+	color: hsl(256, 71%, 13%);
+}
+
+h1 {
+	font-size: 0.85em;
+	letter-spacing: 2px;
+}
+
+h1, h2, h3, h4 {
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
+h2, h3, h4 {
+	letter-spacing: 0.05em;
+	margin-top: 2em;
+	font-size: 1.15em;
+}
+
+img {
+	max-width: 100%;
+}
+
+img.wonky {
+	clip-path: polygon(0% 0%, 100% 1%, 98% 99%, 1% 97%);
+	filter: grayscale(90%);
+	opacity: 0.9;
+	margin-left: -.5em;
+}
+
+#ii-i-ii {
+	stroke: hsl(35, 50%, 13%);
+}
+
+a.secret-link-so-secret-pssst {
+	text-decoration: none;
+	color: inherit;
+}
