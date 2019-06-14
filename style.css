@@ -69,10 +69,23 @@ img {
 }
 
 img.wonky {
-	clip-path: polygon(0% 0%, 100% 1%, 98% 99%, 1% 97%);
 	filter: grayscale(90%);
 	opacity: 0.9;
 	margin-left: -.5em;
+	border: 1px solid hsla(0, 0%, 99%, 0.33);
+	box-shadow: 0 0 1px;
+}
+
+img.frame1 {
+	clip-path: polygon(0% 1%, 98% 1%, 98% 99%, 1% 100%);
+}
+
+img.frame2 {
+	clip-path: polygon(2% 0%, 99% 1%, 99% 99%, 1% 99%);
+}
+
+img.frame3 {
+	clip-path: polygon(2% 1%, 99% 3%, 98% 100%, 4% 97%);
 }
 
 #ii-i-ii {
